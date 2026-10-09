@@ -59,6 +59,10 @@ h2 {
     margin: auto 0;
 }
 
+#myBoy img {
+    width: 300px;
+}
+
 #favoriteOne {
     display: grid;
     grid-template-columns: 1fr auto;
@@ -67,6 +71,14 @@ h2 {
 #favoriteOne p {
     text-align: right;
     margin: auto 0;
+}
+
+#favoriteOne img {
+    width: 400px;
+}
+
+#BeHappyNow img {
+    width: 400px;
 }
 
 footer {
