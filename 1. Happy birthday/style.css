@@ -83,6 +83,10 @@ h2 {
 
 footer {
     margin-top: 20px;
-    height: 200px;
-    background-image: url(zatichka.PNG);
+    height: 100px;
+    background-image: url(loveUprettyOne.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    position: relative;
 }
